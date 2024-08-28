@@ -7,6 +7,7 @@
 * **Automated certificate generation:**  ETCAM can produce and distribute certificates for **large audiences**, simplifying the process for events like workshops, conferences, or online courses.
 * **Secure ticket generation:** ETCAM utilizes **MD5 hashing** to create **unique and tamper-proof** event tickets. This ensures the authenticity and validity of each ticket, mitigating the risk of fraud.
 * **Automated email notification:** ETCAM automates the process of sending **personalized emails** to a **large number of participants**. This can be used for ticket distribution, event reminders, or other relevant information sharing.
+* visit site qrverification.onrender.com only verified qrs can be processed.
 
 **Key benefits:**
 
